@@ -1,8 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 streamlit
 requests
 pandas
 beautifulsoup4
 pytrends
 matplotlib
-transformers==4.36.2
-torch==2.1.2
+transformers==4.31.0
+torch==2.0.1
