@@ -4,7 +4,5 @@ pandas
 beautifulsoup4
 pytrends
 matplotlib
-
-# Add exact versions to prevent install failure
 transformers==4.36.2
 torch==2.1.2
